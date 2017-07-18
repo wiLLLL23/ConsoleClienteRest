@@ -1,0 +1,9 @@
+c:\users\william\documents\visual studio 2015\Projects\ConsoleClienteRest\ConsoleClienteRest\bin\Debug\ConsoleClienteRest.exe.config
+c:\users\william\documents\visual studio 2015\Projects\ConsoleClienteRest\ConsoleClienteRest\obj\Debug\ConsoleClienteRest.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2015\Projects\ConsoleClienteRest\ConsoleClienteRest\bin\Debug\ConsoleClienteRest.exe
+c:\users\william\documents\visual studio 2015\Projects\ConsoleClienteRest\ConsoleClienteRest\bin\Debug\ConsoleClienteRest.pdb
+c:\users\william\documents\visual studio 2015\Projects\ConsoleClienteRest\ConsoleClienteRest\obj\Debug\ConsoleClienteRest.exe
+c:\users\william\documents\visual studio 2015\Projects\ConsoleClienteRest\ConsoleClienteRest\obj\Debug\ConsoleClienteRest.pdb
+C:\Users\William\Source\Repos\ConsoleClienteRest\ConsoleClienteRest\bin\Debug\ConsoleClienteRest.exe.config
+C:\Users\William\Source\Repos\ConsoleClienteRest\ConsoleClienteRest\obj\Debug\ConsoleClienteRest.exe
+C:\Users\William\Source\Repos\ConsoleClienteRest\ConsoleClienteRest\obj\Debug\ConsoleClienteRest.pdb
